@@ -1,0 +1,29 @@
+<div class="jumbotron">
+    <a href="editNosotros.php" class="btn bg-gray text-white ml-auto mr-3 botgray"  role="button" aria-pressed="true">Regresar</a><br>
+    <h2 class="py-4 mt-4"><?php obtenerTitulo('Beneficiarios') ?></h2>
+    <form method="POST" action="modificarInfo.php">
+        <div class="form-group">
+            <div class="row">
+                <div class="col-md-3">
+                    <header>
+                        <textarea class="form-control" rows="1" name="titulo"><?php obtenerTitulo('Beneficiarios') ?></textarea>
+                    </header>
+                </div>
+            </div>
+            <br>
+            <div class="row">
+                <div class="col-md-9">
+                    <textarea class="form-control" id="exampleTextarea" name="desc" rows="12"><?php obtenerDesc2('Beneficiarios') ?></textarea>
+                </div>
+                <div class="col-sm-3">
+                    <div class="container-fluid">
+                        <img src="../img/family.png" class="img img-fluid" alt="Library">
+                    </div>
+                </div>
+            </div>
+            <input type="hidden" name="seccion" value="Beneficiarios">
+            <br>
+            <button type="submit" class="btn bg-cyan text-white ml-auto mr-3 botcyan">Guardar Cambios</button>
+        </div>
+    </form>
+</div>

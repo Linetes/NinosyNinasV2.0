@@ -1,0 +1,460 @@
+[19-Apr-2018 22:26:59 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[19-Apr-2018 22:26:59 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[19-Apr-2018 23:16:16 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[19-Apr-2018 23:16:16 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 00:05:41 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 00:05:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 01:25:34 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 01:25:34 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 01:36:59 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 01:36:59 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 01:37:05 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 01:37:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:03:56 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[20-Apr-2018 02:03:56 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[20-Apr-2018 02:04:05 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:04:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:04:13 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:04:13 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:04:24 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 02:04:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 02:04:27 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:04:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:04:31 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:04:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:05:15 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:05:15 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:05:58 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:05:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:49:08 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 02:49:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:12:54 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:12:54 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:13:10 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 06:13:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 06:13:14 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:13:14 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:13:16 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:13:16 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:15:15 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:15:15 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:15:54 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:15:54 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:16:01 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:16:01 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:16:10 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 06:16:10 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 17:05:27 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 17:05:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 17:06:12 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 17:06:12 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 17:06:17 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 17:06:17 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 17:06:18 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 17:06:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 17:06:19 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 17:06:19 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:12:46 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:12:46 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:12:54 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:12:54 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:13:15 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:13:15 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:13:18 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 18:13:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 18:13:21 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 18:13:21 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 18:13:22 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 18:13:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/acerca.php on line 2
+[20-Apr-2018 18:13:28 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:13:28 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:24:55 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:24:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:24:58 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:24:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:24:59 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:24:59 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:25:07 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:25:07 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:25:22 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:25:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:25:30 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:25:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:25:48 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:25:48 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:33:26 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:33:26 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:33:32 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[20-Apr-2018 18:33:32 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[21-Apr-2018 03:55:00 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[21-Apr-2018 03:55:00 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[21-Apr-2018 06:23:34 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[21-Apr-2018 06:23:34 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[21-Apr-2018 10:19:29 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[21-Apr-2018 10:19:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[21-Apr-2018 12:40:36 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[21-Apr-2018 12:40:36 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[21-Apr-2018 13:09:06 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[21-Apr-2018 13:09:06 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[22-Apr-2018 11:11:23 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[22-Apr-2018 11:11:23 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[22-Apr-2018 17:17:49 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[22-Apr-2018 17:17:49 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[22-Apr-2018 23:01:29 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[22-Apr-2018 23:01:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[23-Apr-2018 04:58:23 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[23-Apr-2018 04:58:23 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[23-Apr-2018 11:01:58 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[23-Apr-2018 11:01:58 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:02:41 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:02:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:02:44 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:02:44 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:03:08 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:03:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:03:18 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:03:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:03:22 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:03:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:03:24 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:03:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:38:00 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:38:00 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:38:27 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:38:27 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:45:26 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 15:45:26 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 16:15:34 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 16:15:34 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/registrarDonador.php on line 2
+[24-Apr-2018 19:15:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:15:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:15:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:15:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:16:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:16:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:16:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:16:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:16:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:17:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:17:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:17:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:19:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:19:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:19:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:20:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:20:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:20:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:20:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:20:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:20:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:20:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:21:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:25:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 909
+[24-Apr-2018 19:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGaleriaPagina() in /home/uzqtvfwd08cs/public_html/html/index.html:15
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/index.php(10): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/index.html on line 15
+[24-Apr-2018 19:26:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGaleriaPagina() in /home/uzqtvfwd08cs/public_html/html/index.html:15
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/index.php(10): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/index.html on line 15
+[24-Apr-2018 19:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGaleriaPagina() in /home/uzqtvfwd08cs/public_html/html/index.html:15
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/index.php(10): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/index.html on line 15
+[24-Apr-2018 19:26:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGaleriaPagina() in /home/uzqtvfwd08cs/public_html/html/index.html:15
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/index.php(10): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/index.html on line 15
+[24-Apr-2018 19:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGaleriaPagina() in /home/uzqtvfwd08cs/public_html/html/index.html:15
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/index.php(10): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/index.html on line 15
+[24-Apr-2018 19:28:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGaleriaPagina() in /home/uzqtvfwd08cs/public_html/html/index.html:15
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/index.php(10): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/index.html on line 15
+[24-Apr-2018 19:28:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerTitulo() in /home/uzqtvfwd08cs/public_html/html/acerca.html:32
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/acerca.php(4): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/acerca.html on line 32
+[24-Apr-2018 19:28:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGaleriaPagina() in /home/uzqtvfwd08cs/public_html/html/index.html:15
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/index.php(10): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/index.html on line 15
+[24-Apr-2018 19:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerTitulo() in /home/uzqtvfwd08cs/public_html/html/acerca.html:32
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/acerca.php(4): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/acerca.html on line 32
+[24-Apr-2018 19:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerTitulo() in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html:16
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/galeria.php(5): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 16
+[24-Apr-2018 19:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerTitulo() in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html:16
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/noticias.php(4): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 16
+[24-Apr-2018 19:28:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerTitulo() in /home/uzqtvfwd08cs/public_html/html/acerca.html:32
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/acerca.php(4): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/acerca.html on line 32
+[24-Apr-2018 19:28:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGaleriaPagina() in /home/uzqtvfwd08cs/public_html/html/index.html:15
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/index.php(10): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/index.html on line 15
+[24-Apr-2018 19:28:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obtenerTitulo() in /home/uzqtvfwd08cs/public_html/html/acerca.html:32
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/acerca.php(4): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/acerca.html on line 32
+[24-Apr-2018 19:28:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getGaleriaPagina() in /home/uzqtvfwd08cs/public_html/html/index.html:15
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/index.php(10): include()
+#1 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/html/index.html on line 15
+[02-May-2018 15:52:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getMetodos(), 0 passed in /home/uzqtvfwd08cs/public_html/html/registrarDonador.html on line 41 and exactly 1 expected in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:508
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/html/registrarDonador.html(41): getMetodos()
+#1 /home/uzqtvfwd08cs/public_html/registrarDonador.php(4): include('/home/uzqtvfwd0...')
+#2 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 508
+[02-May-2018 15:52:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getMetodos(), 0 passed in /home/uzqtvfwd08cs/public_html/html/registrarDonador.html on line 41 and exactly 1 expected in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:508
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/html/registrarDonador.html(41): getMetodos()
+#1 /home/uzqtvfwd08cs/public_html/registrarDonador.php(4): include('/home/uzqtvfwd0...')
+#2 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 508
+[02-May-2018 15:53:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getMetodos(), 0 passed in /home/uzqtvfwd08cs/public_html/html/registrarDonador.html on line 41 and exactly 1 expected in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:508
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/html/registrarDonador.html(41): getMetodos()
+#1 /home/uzqtvfwd08cs/public_html/registrarDonador.php(4): include('/home/uzqtvfwd0...')
+#2 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 508
+[02-May-2018 15:58:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getMetodos(), 0 passed in /home/uzqtvfwd08cs/public_html/html/registrarDonador.html on line 41 and exactly 1 expected in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:508
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/html/registrarDonador.html(41): getMetodos()
+#1 /home/uzqtvfwd08cs/public_html/registrarDonador.php(4): include('/home/uzqtvfwd0...')
+#2 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 508
+[02-May-2018 15:58:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function getMetodos(), 0 passed in /home/uzqtvfwd08cs/public_html/html/registrarDonador.html on line 41 and exactly 1 expected in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:508
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/html/registrarDonador.html(41): getMetodos()
+#1 /home/uzqtvfwd08cs/public_html/registrarDonador.php(4): include('/home/uzqtvfwd0...')
+#2 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 508
+[02-May-2018 16:13:07 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[02-May-2018 16:13:07 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[02-May-2018 16:13:25 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[02-May-2018 16:13:25 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[02-May-2018 16:15:06 UTC] PHP Notice:  Undefined index: ocupacion in /home/uzqtvfwd08cs/public_html/addDonador.php on line 49
+[02-May-2018 18:00:25 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[02-May-2018 18:00:25 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[03-May-2018 01:26:02 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[03-May-2018 01:26:02 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[03-May-2018 22:34:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'ip-107-180-2-200.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 5
+[03-May-2018 22:34:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:6
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php(1028): connect()
+#1 /home/uzqtvfwd08cs/public_html/html/acerca.html(358): obtenerDesc('Contacto')
+#2 /home/uzqtvfwd08cs/public_html/acerca.php(4): include('/home/uzqtvfwd0...')
+#3 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 6
+[04-May-2018 13:11:52 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-May-2018 13:11:52 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-May-2018 14:54:36 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:54:36 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:54:41 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:54:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:54:49 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:54:49 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:54:57 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:54:57 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:55:18 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:55:18 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:55:22 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:55:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:55:53 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:55:53 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:55:56 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:55:56 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:56:00 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:56:00 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:56:33 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:56:33 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:57:29 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:57:29 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:57:35 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:57:35 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:57:41 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:57:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:57:52 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:57:52 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:58:16 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 14:58:16 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/html/partials/_footer.html on line 2
+[04-May-2018 16:24:42 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-May-2018 16:24:42 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-May-2018 16:30:25 UTC] PHP Notice:  Undefined index: ocupacion in /home/uzqtvfwd08cs/public_html/addDonador.php on line 49
+[04-May-2018 19:11:02 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-May-2018 19:11:02 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-May-2018 19:37:44 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-May-2018 19:37:44 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-May-2018 19:38:19 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-May-2018 19:38:19 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 01:19:11 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 01:19:11 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 10:03:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'ip-107-180-2-200.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 5
+[06-May-2018 10:03:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:6
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php(1028): connect()
+#1 /home/uzqtvfwd08cs/public_html/html/partials/_footer.html(16): obtenerDesc('Mision')
+#2 /home/uzqtvfwd08cs/public_html/index.php(13): include('/home/uzqtvfwd0...')
+#3 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 6
+[06-May-2018 18:51:24 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 18:51:24 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 18:54:33 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 18:54:33 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 19:36:04 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 19:36:04 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 22:59:10 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 22:59:10 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[06-May-2018 23:01:00 UTC] PHP Notice:  Undefined index: ocupacion in /home/uzqtvfwd08cs/public_html/addDonador.php on line 49
+[07-May-2018 06:43:33 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 06:43:33 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 17:46:39 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 17:46:39 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 17:49:06 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 17:49:06 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 19:00:14 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 19:00:14 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 22:20:28 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 22:20:28 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 22:28:34 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[07-May-2018 22:28:34 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[09-May-2018 02:00:39 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[09-May-2018 02:00:39 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[09-May-2018 02:15:19 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[09-May-2018 02:15:19 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[10-May-2018 19:28:42 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[10-May-2018 19:28:43 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[11-May-2018 15:31:08 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[11-May-2018 15:31:08 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[12-May-2018 00:10:00 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[12-May-2018 00:10:00 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[12-May-2018 00:30:06 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[12-May-2018 00:30:06 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[13-May-2018 23:23:09 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[13-May-2018 23:23:09 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[14-May-2018 01:37:18 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[14-May-2018 01:37:18 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[14-May-2018 01:37:18 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[14-May-2018 01:37:18 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[14-May-2018 08:37:41 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[14-May-2018 08:37:41 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[14-May-2018 19:40:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'ip-107-180-2-200.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 5
+[14-May-2018 19:40:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:6
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php(1028): connect()
+#1 /home/uzqtvfwd08cs/public_html/html/index.html(73): obtenerDesc('Mision')
+#2 /home/uzqtvfwd08cs/public_html/index.php(9): include('/home/uzqtvfwd0...')
+#3 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 6
+[15-May-2018 16:32:53 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[15-May-2018 16:32:53 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 14:48:25 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 14:48:25 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 15:14:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 645
+[16-May-2018 15:14:22 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 665
+[16-May-2018 15:14:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 645
+[16-May-2018 15:14:55 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 665
+[16-May-2018 15:15:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 645
+[16-May-2018 15:15:14 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 665
+[16-May-2018 15:24:39 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/index.php on line 3
+[16-May-2018 15:24:39 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/index.php on line 3
+[16-May-2018 15:24:41 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/index.php on line 3
+[16-May-2018 15:24:41 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/index.php on line 3
+[16-May-2018 15:25:24 UTC] PHP Warning:  require_once(../GestorV2/modelo.php): failed to open stream: No such file or directory in /home/uzqtvfwd08cs/public_html/index.php on line 3
+[16-May-2018 15:25:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../GestorV2/modelo.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/uzqtvfwd08cs/public_html/index.php on line 3
+[16-May-2018 18:13:59 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 18:13:59 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 18:14:08 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 18:14:08 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 18:18:42 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 18:18:42 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 19:39:39 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 19:39:39 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 19:39:43 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[16-May-2018 19:39:43 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[17-May-2018 00:55:48 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[17-May-2018 00:55:48 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[19-May-2018 13:53:23 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[19-May-2018 13:53:23 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[19-May-2018 15:09:48 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[19-May-2018 15:09:48 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[20-May-2018 12:49:20 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[20-May-2018 12:49:20 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[21-May-2018 19:42:38 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[21-May-2018 19:42:38 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[25-May-2018 04:07:14 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[25-May-2018 04:07:14 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[27-May-2018 11:33:15 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[27-May-2018 11:33:15 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[28-May-2018 08:24:32 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[28-May-2018 08:24:32 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[30-May-2018 23:19:35 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[30-May-2018 23:19:35 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[31-May-2018 10:13:44 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[31-May-2018 10:13:44 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[31-May-2018 16:37:27 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[31-May-2018 16:37:27 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[31-May-2018 17:22:38 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[31-May-2018 17:22:38 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[01-Jun-2018 09:35:42 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[01-Jun-2018 09:35:42 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[02-Jun-2018 10:15:21 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[02-Jun-2018 10:15:21 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-Jun-2018 00:40:44 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[04-Jun-2018 00:40:44 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[05-Jun-2018 16:39:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'ip-107-180-2-200.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 5
+[05-Jun-2018 16:39:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:6
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php(870): connect()
+#1 /home/uzqtvfwd08cs/public_html/html/index.html(8): getGaleriaPagina()
+#2 /home/uzqtvfwd08cs/public_html/index.php(9): include('/home/uzqtvfwd0...')
+#3 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 6
+[09-Jun-2018 08:39:58 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[09-Jun-2018 08:39:58 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[11-Jun-2018 00:21:48 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[11-Jun-2018 00:21:48 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[11-Jun-2018 01:11:06 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[11-Jun-2018 01:11:06 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[12-Jun-2018 14:22:54 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[12-Jun-2018 14:22:54 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[13-Jun-2018 07:41:25 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[13-Jun-2018 07:41:25 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[13-Jun-2018 07:41:57 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[13-Jun-2018 07:41:57 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[13-Jun-2018 10:21:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1130): Host 'ip-107-180-2-200.ip.secureserver.net' is not allowed to connect to this MySQL server in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 5
+[13-Jun-2018 10:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php:6
+Stack trace:
+#0 /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php(1069): connect()
+#1 /home/uzqtvfwd08cs/public_html/html/index.html(83): obtenerDesc('Vision')
+#2 /home/uzqtvfwd08cs/public_html/index.php(9): include('/home/uzqtvfwd0...')
+#3 {main}
+  thrown in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 6
+[14-Jun-2018 11:23:31 UTC] PHP Notice:  Undefined variable: fechas in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541
+[14-Jun-2018 11:23:31 UTC] PHP Notice:  Undefined variable: n in /home/uzqtvfwd08cs/public_html/GestorV2/modelo.php on line 541

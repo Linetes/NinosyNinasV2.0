@@ -1,0 +1,38 @@
+<div class="container-fluid">
+    <h2>Usuarios</h2>
+    <div class="card mb-3">
+        <div class="card-header">
+            <div class="row">
+                <div class="col mt-2">
+                    <i class="fa fa-bell-o"></i>Usuarios
+                    <form class="form-inline">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search" id="myInput">
+                    </form>
+                </div>
+                <div class="col">
+                    <div class="float-right">
+                        <button type="button" onclick="renderButton2();" class="btn bg-cyan text-white ml-auto mr-3 botcyan" data-toggle="modal" data-target="#agregarUsuario" data-whatever="@mdo">Nuevo usuario</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="list-group list-group-flush small">
+            <table class="table">
+                <thead>
+                <tr>
+                    <th scope="col">Nombres</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Rol</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+                </thead>
+                <tbody id="myTable">
+                <?php getUsuarios();?>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <!--BOTON AGREGAR USUARIO
+        Podría ser dark o secondary-->
+</div>
