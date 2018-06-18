@@ -1,14 +1,11 @@
 <HTML>
           <link href='https://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
           <link href='https://fonts.googleapis.com/css?family=Lora:400italic' rel='stylesheet' type='text/css'>
+          <!--
           <div id="demo" class="carousel slide" data-ride="carousel">
-
-              <!-- The slideshow -->
               <div class="carousel-inner shadow" style="max-height: 65vh;">
                   <?php getGaleriaPagina(); ?>
               </div>
-
-              <!-- Left and right controls -->
               <a class="carousel-control-prev" href="#demo" data-slide="prev">
                   <span class="carousel-control-prev-icon"></span>
               </a>
@@ -17,9 +14,19 @@
               </a>
 
           </div>
+          -->
+          <div align="center">
+              <video width="720" class="shadow" controls autoplay>
+                  <source src="img/1.mp4" type="video/mp4">
+                  <source src="img/1.ogg" type="video/ogg">
+                  Your browser does not support HTML5 video.
+              </video>
+          </div>
+
           <br>
 
-          <div class="jumbotron bg-pink inshadow">
+          <div class="container">
+          <div class="jumbotron bg-sec shadow">
               <h2 class="font text-white">Noticias Recientes</h2>
               <br>
               <div class="row">
@@ -29,11 +36,10 @@
               </div>
           </div>
 
-          <div class="jumbotron bg-cyan inshadow">
-              <div class="row">
+          <div class="row">
                   <div class="col">
                       <!-- Mision -->
-                      <div class="jumbotron bg-gray">
+                      <div class="jumbotron bg-ter shadow">
                           <div class="row py-4">
                               <div class="col-sm-3">
                                   <div class="container-fluid">
@@ -52,14 +58,14 @@
                       </div>
 
                       <!-- Quienes Somos -->
-                      <div class="jumbotron bg-dark text-white">
+                      <div class="jumbotron bg-sec shadow">
                           <div class="row py-4">
                               <div class="col-md-9">
                                   <div class="container mt-2">
                                       <header>
-                                          <h2 class="font text-white"><?php obtenerTitulo('QuienesSomos') ?></h2>
+                                          <h2 class="font"><?php obtenerTitulo('QuienesSomos') ?></h2>
                                       </header>
-                                      <p class="lead text-white"><?php obtenerDesc('QuienesSomos') ?></p>
+                                      <p class="lead"><?php obtenerDesc('QuienesSomos') ?></p>
                                   </div>
                               </div>
                               <div class="col-sm-3">
@@ -73,14 +79,14 @@
                   </div>
                   <div class="col">
                       <!-- Vision -->
-                      <div class="jumbotron bg-dark text-white">
+                      <div class="jumbotron bg-sec shadow">
                           <div class="row py-4">
                               <div class="col-md-9">
                                   <div class="container mt-2">
                                       <header>
-                                          <h2 class="font text-white"><?php obtenerTitulo('Vision') ?></h2>
+                                          <h2 class="font"><?php obtenerTitulo('Vision') ?></h2>
                                       </header>
-                                      <p class="lead text-white"><?php obtenerDesc('Vision') ?></p>
+                                      <p class="lead"><?php obtenerDesc('Vision') ?></p>
                                   </div>
                               </div>
                               <div class="col-sm-3">
@@ -92,7 +98,7 @@
                       </div>
 
                       <!-- Donar -->
-                      <div class="jumbotron bg-gray">
+                      <div class="jumbotron bg-ter shadow">
                           <div class="row">
                               <div class="col-sm-3">
                                   <div class="container-fluid">
@@ -105,7 +111,7 @@
                                   </header>
                                   <p class="lead pt-5 pb-1"><?php obtenerDesc('Donar') ?></p>
                                   <br>
-                                  <a href="donar.php" class="btn bg-pink text-white shadow ml-auto mr-3 botrosa"  role="button" aria-pressed="true">DONAR</a>
+                                  <a href="donar.php" class="btn bg-prim text-white shadow ml-auto mr-3 botrosa"  role="button" aria-pressed="true">Donar <i class="fas fa-hand-holding-usd text-white"></i>    </a>
                               </div>
                           </div>
                       </div>
