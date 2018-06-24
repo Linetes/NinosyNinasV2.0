@@ -20,6 +20,8 @@ function setCurrentVars(email, nombre, apellidoP, apellidoM, tel, dir, fechaN, i
 function generateModal(){
     document.getElementById('prev_nom').innerHTML = nombre + ' ' +apellidoP + ' ' +apellidoM;
     document.getElementById('prev_email').innerHTML = email;
+    email = "mailto:" + email;
+    document.getElementById('prev_email_send').setAttribute("href", email);
     document.getElementById('prev_dir').innerHTML = dir;
     document.getElementById('prev_tel').innerHTML = tel;
     document.getElementById('prev_fechaN').innerHTML = fechaN;

@@ -75,53 +75,53 @@ $.ajax({
 
 
 
-var data2 = {
-  "labels" : ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio"],
-  "data" : [4215, 5312, 6251, 7841, 9821, 14984]
-}
+// var data2 = {
+//   "labels" : ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio"],
+//   "data" : [4215, 5312, 6251, 7841, 9821, 14984]
+// }
 
-// -- Bar Chart Example
-var ctx = document.getElementById("myBarChart");
-var myLineChart = new Chart(ctx, {
-  type: 'bar',
-  data: {
-    labels: data2.labels,
-    datasets: [{
-      label: "Visitas",
-      backgroundColor: "rgba(2,117,216,1)",
-      borderColor: "rgba(2,117,216,1)",
-      data: data2.data,
-    }],
-  },
-  options: {
-    scales: {
-      xAxes: [{
-        time: {
-          unit: 'month'
-        },
-        gridLines: {
-          display: false
-        },
-        ticks: {
-          maxTicksLimit: 6
-        }
-      }],
-      yAxes: [{
-        ticks: {
-          min: 0,
-          max: 15000,
-          maxTicksLimit: 5
-        },
-        gridLines: {
-          display: true
-        }
-      }],
-    },
-    legend: {
-      display: false
-    }
-  }
-});
+// // -- Bar Chart Example
+// var ctx = document.getElementById("myBarChart");
+// var myLineChart = new Chart(ctx, {
+//   type: 'bar',
+//   data: {
+//     labels: data2.labels,
+//     datasets: [{
+//       label: "Visitas",
+//       backgroundColor: "rgba(2,117,216,1)",
+//       borderColor: "rgba(2,117,216,1)",
+//       data: data2.data,
+//     }],
+//   },
+//   options: {
+//     scales: {
+//       xAxes: [{
+//         time: {
+//           unit: 'month'
+//         },
+//         gridLines: {
+//           display: false
+//         },
+//         ticks: {
+//           maxTicksLimit: 6
+//         }
+//       }],
+//       yAxes: [{
+//         ticks: {
+//           min: 0,
+//           max: 15000,
+//           maxTicksLimit: 5
+//         },
+//         gridLines: {
+//           display: true
+//         }
+//       }],
+//     },
+//     legend: {
+//       display: false
+//     }
+//   }
+// });
 
 
 $.ajax({

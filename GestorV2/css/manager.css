@@ -15,23 +15,27 @@ font-family: 'Fjalla One', sans-serif;
 }
 
 .bg-cyan {
-    background-color: #00b2bf !important;
+    background-color: #7334A2 !important;
 }
 
 .bg-gray {
-    background-color: #b4b4b4 !important;
+    background-color: #0069A3 !important;
+}
+
+.bg-purple {
+    background-color: #2f2b39 !important;
 }
 
 .bg-pink {
-    background-color: #e2418d !important;
+    background-color: #EB8899 !important;
 }
 
 .botcyan:hover {
-    background-color: #008490 !important;
+    background-color: #7334A2 !important;
 }
 
 .botcyan:active {
-    background-color: #00656e !important;
+    background-color: #472268 !important;
 }
 
 .botgray:hover {
@@ -48,6 +52,28 @@ font-family: 'Fjalla One', sans-serif;
 
 .botrosa:active {
     background-color: #832653 !important;
+}
+
+* {
+    font-size: 100%;
+    font-family: 'Encode Sans Semi Expanded', sans-serif;
+    font-size: 12px;
+}
+
+.lead {
+    font-size: 12px !important;
+}
+
+.font {
+    font-size: 22px !important;
+}
+
+.big:hover {
+    transform: scale(1.1);
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 body {
@@ -78,10 +104,6 @@ h2 {
 .sticky:after {
     content: '';
     display: table;
-}
-
-.shadow {
-	box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.7), 0 0 15px 0 rgba(0, 0, 0, 0.3);
 }
 
 .box {
