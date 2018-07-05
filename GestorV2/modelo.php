@@ -608,11 +608,11 @@ function getNoticiasPagina() {
             //     $html .= "</div><div class=\"card-deck\">";
             //     $i = 1;
             // }
-            $html .=   "<div class=\"card mb-3\" style=\"width: 18rem;\">
+            $html .=   "<div class=\"card mb-5\" style=\"width: 18rem;\">
                             <div class=\"card-img-top\" style=\"background-image: url('../GestorV2/".$fila["imagen"]."'); height: 12rem; background-size: 100% auto;\"></div>
                             <div class=\"card-body\">
                                 <h5 class=\"card-title\">".$fila["titulo"]."</h5>
-                                <p class=\"card-text text-muted mr-auto\">".$fila["date_cast"]."</p>
+                                <p class=\"card-text text-muted\">".$fila["date_cast"]."</p>
                                 <button onclick=\"visualizarNoticia('".$fila["titulo"]."','".$fila["imagen"]."','".$fila["cuerpo"]."')\" class=\"btn bg-prim text-white shadow ml-auto\">Leer más</button>
                             </div>
                         </div>";
@@ -649,12 +649,12 @@ function getNoticiasIndex() {
             //     $html .= "</div><div class=\"card-deck\">";
             //     $i = 1;
             // }
-            $html .=   "<div class=\"card mb-3\" style=\"width: 18rem;\">
+            $html .=   "<div class=\"card mb-5\" style=\"width: 18rem;\">
                             <div class=\"card-img-top\" style=\"background-image: url('../GestorV2/".$fila["imagen"]."'); height: 12rem; background-size: 100% auto;\"></div>
                             <div class=\"card-body\">
                                 <h5 class=\"card-title\">".$fila["titulo"]."</h5>
-                                <p class=\"card-text text-muted mr-auto\">".$fila["date_cast"]."</p>
-                                <button onclick=\"visualizarNoticia('".$fila["titulo"]."','".$fila["imagen"]."','".$fila["cuerpo"]."')\" class=\"btn bg-prim text-white shadow ml-auto mr-3\">Leer más</button>
+                                <p class=\"card-text text-muted\">".$fila["date_cast"]."</p>
+                                <button onclick=\"visualizarNoticia('".$fila["titulo"]."','".$fila["imagen"]."','".$fila["cuerpo"]."')\" class=\"btn bg-prim text-white shadow ml-auto\">Leer más</button>
                             </div>
                         </div>";
             $i++;
@@ -877,11 +877,11 @@ function getGaleriaPagina()
             while ($row = mysqli_fetch_assoc($result)) {
                 if ($i == 0) {
                     echo '<div class="carousel-item active">
-                  <img src="GestorV2/' . $row['Filepath'] . '" alt="' . $row['Nombre'] . '" width="1100" height="500">
+                  <img src="GestorV2/' . $row['Filepath'] . '" alt="' . $row['Nombre'] . '" width="1100" height="1000">
               </div>';
                 } else {
                     echo '<div class="carousel-item">
-                  <img src="GestorV2/' . $row['Filepath'] . '" alt="' . $row['Nombre'] . '" width="1100" height="500">
+                  <img src="GestorV2/' . $row['Filepath'] . '" alt="' . $row['Nombre'] . '" width="1100" height="1000">
               </div>';
                 }
 

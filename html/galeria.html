@@ -1,31 +1,37 @@
 <div class="row">
-    <div id="demo" class="carousel slide number1" data-ride="carousel">
-        <div class="carousel-inner shadow" style="max-height: 65vh;">
-            <?php getGaleriaPagina(); ?>
+    <div class="col">
+        <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
+            <div class="carousel-inner shadow" style="max-height: 150vh">
+                <?php getGaleriaPagina(); ?>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
-        <a class="carousel-control-prev" href="#demo" data-slide="prev">
-            <span class="carousel-control-prev-icon"></span>
-        </a>
-        <a class="carousel-control-next" href="#demo" data-slide="next">
-            <span class="carousel-control-next-icon"></span>
-        </a>
     </div>
-    <div id="gallery" class="container mt-4">
-        <div  class='embedsocial-album'
-             data-ref="045581c50b6b6af415472a18476b19669a8af4c8">
+    <div class="col">
+        <div id="gallery" class="container mt-4">
+            <div  class='embedsocial-album'
+                  data-ref="045581c50b6b6af415472a18476b19669a8af4c8">
+            </div>
+            <script>
+                (function (d, s, id) {
+                    var js;
+                    if (d.getElementById(id)) {
+                        return;
+                    }
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = "https://embedsocial.com/embedscript/ei.js";
+                    d.getElementsByTagName("head")[0].appendChild(js);
+                }(document, "script", "EmbedSocialScript"));
+            </script>
         </div>
-        <script>
-            (function (d, s, id) {
-                var js;
-                if (d.getElementById(id)) {
-                    return;
-                }
-                js = d.createElement(s);
-                js.id = id;
-                js.src = "https://embedsocial.com/embedscript/ei.js";
-                d.getElementsByTagName("head")[0].appendChild(js);
-            }(document, "script", "EmbedSocialScript"));
-        </script>
     </div>
 </div>
 </body>
