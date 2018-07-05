@@ -1,11 +1,35 @@
 * {
     font-size: 100%;
-    font-family: 'Encode Sans Semi Expanded', sans-serif;
+    font-family: 'Encode Sans Semi Expanded', sans-serif !important;
     font-size: 14px;
 }
 
+h1{
+    font-family: 'Boogaloo', cursive !important;
+    font-size: 48px !important;
+}
+
+h2{
+    font-family: 'Boogaloo', cursive !important;
+    font-size: 42px !important;
+}
+
+h3{
+    font-family: 'Boogaloo', cursive !important;
+    font-size: 32px !important;
+}
+
+h4{
+    font-family: 'Boogaloo', cursive !important;
+    font-size: 28px !important;
+}
+
+h5{
+    font-family: 'Boogaloo', cursive !important;
+    font-size: 24px !important;
+}
 .bold {
-    font-family: 'Encode Sans Semi Expanded', bold;
+    font-family: bold;
 }
 
 .size {
@@ -26,7 +50,7 @@ a:active, button:active {
 }
 
 .font {
-    font-size: 22px !important;
+
 }
 
 .big:hover {
