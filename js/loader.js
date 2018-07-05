@@ -1,17 +1,17 @@
-var myVar1,myVar2;
+var myVar1,myVar2,myVar3;
 
-function loadGallery() {
-    myVar1 = setTimeout(showG, 2900);
+function loadMenu() {
+    myVar1 = setTimeout(showG, 1000);
 }
 function loadCalendar() {
     myVar2 = setTimeout(showC, 1200);
 }
 function loadAcerca() {
-    myVar1 = setTimeout(showA, 1800);
+    myVar3 = setTimeout(showA, 1800);
 }
 function showG() {
     document.getElementById("loader").style.display = "none";
-    document.getElementById("gallery").style.display = "block";
+    document.getElementById("menu").style.display = "block";
 }
 function showC() {
     document.getElementById("loader").style.display = "none";

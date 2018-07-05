@@ -613,7 +613,7 @@ function getNoticiasPagina() {
                             <div class=\"card-body\">
                                 <h5 class=\"card-title\">".$fila["titulo"]."</h5>
                                 <p class=\"card-text text-muted mr-auto\">".$fila["date_cast"]."</p>
-                                <button onclick=\"visualizarNoticia('".$fila["titulo"]."','".$fila["imagen"]."','".$fila["cuerpo"]."')\" class=\"btn bg-prim text-white shadow ml-auto mr-3\">Leer más</button>
+                                <button onclick=\"visualizarNoticia('".$fila["titulo"]."','".$fila["imagen"]."','".$fila["cuerpo"]."')\" class=\"btn bg-prim text-white shadow ml-auto\">Leer más</button>
                             </div>
                         </div>";
             $i++;
@@ -844,7 +844,7 @@ function getGaleriaGestor()
                 echo '
             <div class="col">
                 <div class="show-image">
-                    <a href="javascript:preview(\'' . $row['Filepath'] . '\',\'' . $row['Nombre'] . '\');"><img src="' . $row['Filepath'] . '" class="img img-thumbnail"></a>
+                    <a href="javascript:preview(\'' . $row['Filepath'] . '\',\'' . $row['Nombre'] . '\');"><img src="' . $row['Filepath'] . '" class="img img-thumbnail" width="200" height="200"></a>
                     <button onclick="showDelete(\'' . $row['Filepath'] . '\')" class="delete btn btn-danger shadow"><i class="fas fa-trash-alt"></i></button>
                 </div>
             </div>';
