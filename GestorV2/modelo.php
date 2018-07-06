@@ -632,14 +632,14 @@ function getNoticiasIndex() {
     if ($db != NULL) {
 
         //Specification of the SQL query
-        $query="SELECT idNoticia, titulo, imagen, cuerpo, cast(fecha as date) as 'date_cast' FROM noticias ORDER BY fecha DESC LIMIT 3";
+        $query="SELECT idNoticia, titulo, imagen, cuerpo, cast(fecha as date) as 'date_cast' FROM noticias ORDER BY fecha DESC LIMIT 2";
         // idNoticia titulo cuerpo imagen fecha
 
         // Query execution; returns identifier of the result group
         $results = $db->query($query);
 
         // cycle to explode every line of the results
-        $html = '<div class="card-columns">';
+        $html = '';
         $i = 1;
         while ($fila = mysqli_fetch_array($results, MYSQLI_BOTH)) {
             // Options: MYSQLI_NUM to use only numeric indexes
@@ -649,17 +649,17 @@ function getNoticiasIndex() {
             //     $html .= "</div><div class=\"card-deck\">";
             //     $i = 1;
             // }
-            $html .=   "<div class=\"card mb-5\" style=\"width: 18rem;\">
-                            <div class=\"card-img-top\" style=\"background-image: url('../GestorV2/".$fila["imagen"]."'); height: 12rem; background-size: 100% auto;\"></div>
+            $html .=   "<div class=\"row\"><div class=\"card mb-5\" style=\"width: 100%;\">
+                            <div class=\"card-img-top\" style=\"background-image: url('../GestorV2/".$fila["imagen"]."'); height: 12rem; background-size: 100% auto; background-position: center;\"></div>
                             <div class=\"card-body\">
                                 <h5 class=\"card-title\">".$fila["titulo"]."</h5>
                                 <p class=\"card-text text-muted\">".$fila["date_cast"]."</p>
                                 <button onclick=\"visualizarNoticia('".$fila["titulo"]."','".$fila["imagen"]."','".$fila["cuerpo"]."')\" class=\"btn bg-prim text-white shadow ml-auto\">Leer más</button>
                             </div>
-                        </div>";
+                        </div></div>";
             $i++;
         }
-        echo $html."</div>";
+        echo $html."";
         // it releases the associated results
         mysqli_free_result($results);
         disconnect($db);

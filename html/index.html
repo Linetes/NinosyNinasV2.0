@@ -1,107 +1,67 @@
-<div align="center">
-  <video width="1080" class="shadow" controls autoplay>
-      <source src="img/ninosyninas.mp4" type="video/mp4">
-      <source src="img/ninosyninas.ogg" type="video/ogg">
-      Your browser does not support HTML5 video.
-  </video>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans:700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Lora:400italic' rel='stylesheet' type='text/css'>
+<!--
+<div id="demo" class="carousel slide" data-ride="carousel">
+<div class="carousel-inner shadow" style="max-height: 65vh;">
+<?php getGaleriaPagina(); ?>
+</div>
+<a class="carousel-control-prev" href="#demo" data-slide="prev">
+<span class="carousel-control-prev-icon"></span>
+</a>
+<a class="carousel-control-next" href="#demo" data-slide="next">
+<span class="carousel-control-next-icon"></span>
+</a>
+
+</div>
+-->
+
+<div class="container">
+    <div class="embed-responsive embed-responsive-16by9 shadow">
+        <div align="center">
+          <video width="720" class="shadow" controls="" autoplay="">
+              <source src="img/1.mp4" type="video/mp4">
+              <source src="img/1.ogg" type="video/ogg">
+              Your browser does not support HTML5 video.
+          </video>
+        </div>
+    </div>
 </div>
 
-<br>
-
-<div class="row">
-    <div class="col">
-        <h2>Noticias Recientes</h2>
-        <img src="img/8.jpg" alt="Fun" style="width:100%;">
-    </div>
-    <div class="col">
-        <div class="row ml-5">
-            <div class="col container-fluid">
-                <?php getNoticiasIndex(); ?>
+<div class="container-fluid my-4">
+    <div class="row" style="min-height: 600px; background-image: url('img/IMG_8594.JPG'); background-size: 100% auto; background-position: center top;">
+        <div class="col-md-7">
+        </div>
+        <div class="col-md-5" style="background-color: rgba(255, 255, 255, 0.4);">
+            <h1 class="my-4" style="color: #04225c; text-align: center;">Noticias Recientes</h1>
+            <div class="container">
+                <div class="col">
+                    <?php getNoticiasIndex(); ?>
+                </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="row">
-      <div class="col">
-          <!-- Mision -->
-          <div class="jumbotron bg-ter shadow">
-              <div class="row py-4">
-                  <div class="col-sm-3">
-                      <div class="container-fluid">
-                          <img src="img/library.png" class="img img-fluid" alt="Books">
-                      </div>
-                  </div>
-                  <div class="col-md-9">
-                      <div class="container mt-2">
-                          <header>
-                              <h2 class="font"><?php obtenerTitulo('Mision') ?></h2>
-                          </header>
-                          <p class="lead"><?php obtenerDesc('Mision') ?></p>
-                      </div>
-                  </div>
-              </div>
-          </div>
 
-          <!-- Quienes Somos -->
-          <div class="jumbotron bg-sec shadow">
-              <div class="row py-4">
-                  <div class="col-md-9">
-                      <div class="container mt-2">
-                          <header>
-                              <h2 class="font"><?php obtenerTitulo('QuienesSomos') ?></h2>
-                          </header>
-                          <p class="lead"><?php obtenerDesc('QuienesSomos') ?></p>
-                      </div>
-                  </div>
-                  <div class="col-sm-3">
-                      <div class="container-fluid">
-                          <img src="img/donation-3.png" class="img img-fluid" alt="Heart and us">
-                      </div>
-                  </div>
-              </div>
-          </div>
-
-      </div>
-      <div class="col">
-          <!-- Vision -->
-          <div class="jumbotron bg-sec shadow">
-              <div class="row py-4">
-                  <div class="col-md-9">
-                      <div class="container mt-2">
-                          <header>
-                              <h2 class="font"><?php obtenerTitulo('Vision') ?></h2>
-                          </header>
-                          <p class="lead"><?php obtenerDesc('Vision') ?></p>
-                      </div>
-                  </div>
-                  <div class="col-sm-3">
-                      <div class="container-fluid">
-                          <img src="img/mortgage-1.png" class="img img-fluid" alt="House and us">
-                      </div>
-                  </div>
-              </div>
-          </div>
-
-          <!-- Donar -->
-          <div class="jumbotron bg-ter shadow">
-              <div class="row">
-                  <div class="col-sm-3">
-                      <div class="container-fluid">
-                          <img src="img/charity.png" class="img img-fluid" alt="Help">
-                      </div>
-                  </div>
-                  <div class="col-md-9">
-                      <header>
-                          <h2 class="font"><?php obtenerTitulo('Donar') ?></h2>
-                      </header>
-                      <p class="lead pt-5 pb-1"><?php obtenerDesc('Donar') ?></p>
-                      <br>
-                      <a href="donar.php" class="btn bg-prim text-white shadow ml-auto mr-3"  role="button" aria-pressed="true">Donar <i class="fas fa-hand-holding-usd text-white"></i>    </a>
-                  </div>
-              </div>
-          </div>
-      </div>
-  </div>
+<div class="container-fluid">
+    <h1 id="quienes_title" style="color: #04225c; text-align: center;"> <?php obtenerTitulo('QuienesSomos') ?></h1>
 </div>
-</HTML>
+
+
+<div id="quienes" class="container-fluid my-4" style="min-height: 400px; background-image: url('img/IMG_8591.JPG'); background-repeat: no-repeat; background-size: 100% auto; background-position: center top; padding: 0;">
+    <div class="container" style="text-align: center;">
+        <p id="quienes_text" class="py-4" style="color: #04225c; text-align: center;"><?php obtenerDesc('QuienesSomos') ?></p>
+    </div>
+</div>
+
+
+
+<div class="container-fluid ">
+    <h1 id="historia_title" style="color: #04225c; text-align: center;"> Historia</h1>
+</div>
+
+<div id="historia" class="container-fluid my-4" style="min-height: 300px; background-image: url('img/IMG_8553.JPG'); background-repeat: no-repeat; background-size: 100% auto; background-position: center top; padding: 0;">
+    <div class="container" style="text-align: center;">
+        <p id="historia_text" class="py-4" style="color: #04225c; text-align: center;">Comenzamos como voluntarios en un estudio llamado "100 Ciudades" coordinado por UNICEF y la OIT, para hacer un conteo de los niños trabajadores en las calles de la ciudad de Querétaro, los resultados de dicho estudio nos motivaron, dado el número tan alto de niños y niñas que trabajaban y las condiciones tan lamentables en que lo hacían, a hacer un "CENTRO DE DÍA" para atender sus necesidades y juntos desarrollar sus habilidades.</p>
+    </div>
+</div>
