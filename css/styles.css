@@ -11,7 +11,7 @@ h1{
 
 h2{
     font-family: 'Boogaloo', cursive !important;
-    font-size: 42px !important;
+    font-size: 36px !important;
 }
 
 h3{
@@ -36,6 +36,39 @@ h5{
     font-size: 22px;
 }
 
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    position: relative;
+    margin: 0 auto;
+}
+
+.container img {vertical-align: middle;}
+
+.containerleft .contentleft {
+    position: absolute;
+    bottom: 0;
+    height: 100%;
+    width: 40%;
+    padding: 20px;
+}
+
+.containerright .contentright {
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+    height: 100%;
+    width: 40%;
+    padding: 20px;
+}
+
+.texts {
+    font-size: 10px;
+}
+
+
 a:hover, button:hover {
     color: #7334A2 !important;
     transform: scale(1.1);
@@ -46,11 +79,7 @@ a:active, button:active {
 }
 
 .lead {
-    font-size: 12px !important;
-}
-
-.font {
-
+    font-size: 18px !important;
 }
 
 .big:hover {

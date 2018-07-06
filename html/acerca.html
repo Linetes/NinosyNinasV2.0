@@ -5,7 +5,7 @@
     <div class="dot2"></div>
 </div>
 <div class="row">
-    <div style="display: none;" id="acerca" class="container mt-4">
+    <div style="display: none;" id="acerca" class="container-fluid">
         <section id="content" class="container">
             <header>
                 <h2 class="sr-only">Acerca de nosotros</h2>
@@ -38,24 +38,19 @@
                     <div class="tab-pane fade show active" id="Nosotros">
 
                         <!-- Que Hacemos -->
-                        <div style="background-color:white;">
-                          <h2 class="textblue"><?php obtenerTitulo('Hacemos') ?></h2>
-                        </div>
                         <div class="card">
-                          <img class="card-img" src="img/6.jpg" alt="Pizarrón ¿Que hacemos?">
+                          <img class="card-img bg-gray" src="img/28.png" alt="Pizarrón ¿Que hacemos?">
                           <div class="card-img-overlay">
                             <div class="doublecolumn">
-                              <strong><?php obtenerDesc('Hacemos') ?></strong>
+                                <h2 class="textblue"><?php obtenerTitulo('Hacemos') ?></h2>
+                                <p><?php obtenerDesc('Hacemos') ?></p>
                             </div>
                           </div>
                         </div>
 
-                        <br>
-                        <br>
-
                         <!-- Constitucion y Beneficiarios -->
                         <div class="card">
-                          <div class="card-body text-center">
+                          <div class="card-body text-center bg-gray">
                             <h3 class="textblue"><?php obtenerTitulo('Constitucion') ?></h2>
                             <p class="textblue"><?php obtenerDesc('Constitucion') ?></p>
                             <br>
@@ -65,41 +60,24 @@
                           <img class="card-img-bottom" src="img/14.jpg" alt="NiñosConstitución">
                         </div>
 
-                        <br>
-                        <br>
-
                         <!-- Patronato -->
-                        <div class="card bg-dark text-white">
-                          <img class="card-img" src="img/28.jpg" alt="Card image">
-                          <div class="card-img-overlay">
-                            <div class="row">
-                              <div class="col-md-7"></div>
-                              <div class="col-md-5">
-                                  <div style="background-color:#006600; opacity:0.8;" class="container">
-                                      <header>
-                                          <h2>Patronato</h2>
-                                      </header>
-                                      <table class="table round table-striped">
-                                          <tbody>
-                                          <?php obtenerTablaWhite('Patronato') ?>
-                                          </tbody>
-                                      </table>
-                                  </div>
-                              </div>
+                        <div class="container containerright">
+                            <img class="card-img" src="img/28.jpg" alt="Patronato">
+                            <div class="contentright" style="background-color:#1f776b; opacity:0.8;">
+                                <header>
+                                    <h2 class="text-white">Patronato</h2>
+                                </header>
+                                <table class="table round table-striped">
+                                    <tbody>
+                                    <?php obtenerTablaWhite('Patronato') ?>
+                                    </tbody>
+                                </table>
                             </div>
-                          </div>
                         </div>
 
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-                        <br>
-
                         <!-- Mision y Vision -->
-                        <div class="card bg-white text-white">
-                          <img class="card-img" src="img/26.png" alt="Card image">
+                        <div class="card">
+                          <img class="card-img bg-gray" src="img/26.png" alt="Mision y Vision">
                           <div class="card-img-overlay">
                             <div class="row">
                               <div class="col-sm-6">
@@ -114,144 +92,94 @@
                           </div>
                         </div>
 
-                        <br>
-                        <br>
-
                         <!-- Objetivos -->
-                        <div class="row">
-                          <div class="col-md-7">
-                            <img src="img/5.jpg" class="img img-fluid" alt="PequeñosObjetivos" width="500000px" height="500000px">
-                          </div>
-                          <div class="col-md-5 bg-ter">
-                            <h2 class="font">Objetivos</h2>
-                            <table class="table round table-striped">
-                                <tbody>
-                                <?php obtenerTabla('Objetivos') ?>
-                                </tbody>
-                            </table>
-                          </div>
+                        <div>
+                            <div class="row">
+                                <div class="col-8">
+                                    <img src="img/5.jpg" alt="Objetivos" style="width:100%;">
+                                </div>
+                                <div class="col-4 bg-ter">
+                                    <div class="container">
+                                        <h2 class="font">Objetivos</h2>
+                                        <table class="table round table-striped">
+                                            <tbody>
+                                            <?php obtenerTabla('Objetivos')?>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-
                     </div>
 
 
                     <!-- Atencion -->
                     <div class="tab-pane fade" id="AreasDeAtencion">
                         <!-- Areas -->
-                        <div class="card bg-dark text-white">
-                          <img class="card-img" src="img/28.jpg" alt="Card image">
-                          <div class="card-img-overlay">
-                            <div class="row">
-                              <div class="col-md-5">
-                                  <div style="background-color:#000066; opacity:0.8;" class="container">
-                                    <br><br><br><br><br><br><br><br><br><br>
-                                    <br><br><br>
-                                    <h2 class="font"><?php obtenerTitulo('AreasdeAtencion') ?></h2>
-                                    <br>
-                                    <p class="lead"><?php obtenerDesc('AreasdeAtencion') ?></p>
-                                    <br><br><br><br><br><br><br><br><br><br>
-                                    <br><br><br><br>
-                                  </div>
-                              </div>
-                              <div class="col-md-7"></div>
+                        <div class="container containerleft">
+                            <img class="card-img" src="img/24.jpg" alt="AreasdeAtencion">
+                            <div class="contentleft" style="background-color:#000066; opacity:0.8;">
+                                <h2 class="font"><?php obtenerTitulo('AreasdeAtencion') ?></h2>
+                                <p class="lead"><?php obtenerDesc('AreasdeAtencion') ?></p>
                             </div>
-                          </div>
                         </div>
 
-                        <br>
-                        <br>
+                        <div class="container containerleft">
+                            <img class="card-img" src="img/25.jpeg" alt="ProgramasSociales">
+                            <div class="contentleft" style="background-color:#602060; opacity:0.8;">
+                                <div>
+                                    <table class="table round table-striped">
+                                        <tbody>
+                                        <?php obtenerTabla('PromocionSocial') ?>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div>
+                                    <table class="table round table-striped">
+                                        <tbody>
+                                        <?php obtenerTabla('ProgramasSocial') ?>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
 
-                        <div class="card bg-dark text-white">
-                          <img class="card-img" src="img/25.jpeg" alt="Card image">
-                          <div class="card-img-overlay">
-                            <div class="row">
-                              <div class="col-md-5">
-                                  <div style="background-color:#602060; opacity:0.8;" class="container">
-                                    <br><br><br><br><br>
-                                    <div>
-                                        <table class="table round table-striped">
-                                            <tbody>
-                                            <?php obtenerTabla('PromocionSocial') ?>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                    <br>
-                                    <div>
-                                        <table class="table round table-striped">
-                                            <tbody>
-                                            <?php obtenerTabla('ProgramasSocial') ?>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                    <br><br><br><br><br>
-                                  </div>
-                              </div>
-                              <div class="col-md-7"></div>
+                        <div class="container containerleft">
+                            <img class="card-img" src="img/29.jpg" alt="DesarrolloInstitucional">
+                            <div class="contentleft" style="background-color:#602060; opacity:0.8;">
+                                <table class="table round table-striped">
+                                    <tbody>
+                                    <?php obtenerTabla('DesarrolloInstitucional') ?>
+                                    </tbody>
+                                </table>
                             </div>
-                          </div>
                         </div>
-                        <br>
-                        <div class="card bg-dark text-white">
-                          <img class="card-img" src="img/29.jpg" alt="Card image">
-                          <div class="card-img-overlay">
-                            <div class="row">
-                              <div class="col-md-5">
-                                  <div style="background-color:#602060; opacity:0.8;" class="container">
-                                    <br><br><br><br><br><br><br><br><br><br>
-                                    <br><br><br>
-                                    <div>
-                                        <table class="table round table-striped">
-                                            <tbody>
-                                            <?php obtenerTabla('DesarrolloInstitucional') ?>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                    <br><br><br><br><br><br><br><br><br>
-                                  </div>
-                              </div>
-                              <div class="col-md-7"></div>
+
+                        <div class="container containerleft">
+                            <img class="card-img" src="img/30.jpg" alt="ProgramasdeEducacion">
+                            <div class="contentleft" style="background-color:#602060; opacity:0.8;">
+                                <div>
+                                    <table class="table round table-striped">
+                                        <tbody>
+                                        <?php obtenerTabla('Education') ?>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div>
+                                    <table class="table round table-striped">
+                                        <tbody>
+                                        <?php obtenerTabla('ProgramasEducacion') ?>
+                                        </tbody>
+                                    </table>
+                                </div>
                             </div>
-                          </div>
                         </div>
-                        <br>
-                        <div class="card bg-dark text-white">
-                          <img class="card-img" src="img/30.jpg" alt="Card image">
-                          <div class="card-img-overlay">
-                            <div class="row">
-                              <div class="col-md-5">
-                                  <div style="background-color:#602060; opacity:0.8;" class="container">
-                                    <div>
-                                      <br>
-                                        <table class="table round table-striped">
-                                            <tbody>
-                                            <?php obtenerTabla('Education') ?>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                    <br>
-                                    <div>
-                                        <table class="table round table-striped">
-                                            <tbody>
-                                            <?php obtenerTabla('ProgramasEducacion') ?>
-                                            </tbody>
-                                        </table>
-                                        <br>
-                                    </div>
-                                  </div>
-                              </div>
-                              <div class="col-md-7"></div>
-                            </div>
-                          </div>
-                        </div>
-                        <br><br>
-                        <br><br>
-                        <br><br>
                     </div>
 
                     <!-- Logros -->
                     <div class="tab-pane fade" id="Logros">
-                      <div class="card bg-white text-white">
-                        <img class="card-img" src="img/23.png" alt="Card image">
+                      <div class="card bg-gray text-white">
+                        <img class="card-img" src="img/23.png" alt="Logros">
                         <div class="card-img-overlay">
                           <div class="row">
                             <div class="col-md-7">
@@ -266,70 +194,46 @@
 
                     <!-- Necesidades -->
                     <div class="tab-pane fade" id="Needs">
-                      <div class="card">
-                        <img class="card-img" src="img/16.jpg" alt="Pizarrón ¿Que hacemos?">
-                        <div class="card-img-overlay">
-                          <h2 class="textblue"><?php obtenerTitulo('QueNecesitamos') ?></h2>
-                          <div class="doublecolumn">
-                            <strong><?php obtenerDesc('Hacemos') ?></strong>
-                          </div>
+
+                        <div class="container containerleft">
+                            <img class="card-img" src="img/16.jpg" alt="Necesidades">
+                            <div class="contentleft" style="background-color:#b12240; opacity:0.8;">
+                                <h2 class="font"><?php obtenerTitulo('QueNecesitamos')?></h2>
+                                <p class="lead"><?php obtenerDesc('Hacemos')?></p>
+                            </div>
                         </div>
-                      </div>
-                      <br>
 
                         <!-- Donar -->
                         <div class="card">
-                          <img class="card-img" src="img/33.jpg" alt="Pizarrón ¿Que hacemos?">
+                          <img class="card-img" src="img/33.jpg" alt="Donar">
                           <div class="card-img-overlay">
-                            <br><br>
-                            <h2 class="textblue"><?php obtenerTitulo('Donar') ?></h2>
+                            <h2 class="textblue mt-2"><?php obtenerTitulo('Donar') ?></h2>
                             <br>
-                            <strong><p class="textblue"><?php obtenerDesc('Donar') ?></p></strong>
+                            <p class="textblue" style="font-size: 20px"><?php obtenerDesc('Donar') ?></p>
                             <br>
-                            <a href="donar.php" class="btn bg-prim text-white shadow ml-auto mr-3"  role="button" aria-pressed="true">Donar <i class="fas fa-hand-holding-usd text-white"></i></a>
+                            <a href="donar.php" class="btn btn-lg bg-prim text-white shadow ml-auto mr-3"  role="button" aria-pressed="true">Donar <i class="fas fa-hand-holding-usd text-white"></i></a>
                           </div>
                         </div>
-                        <br>
 
                         <!-- Voluntariado -->
-                        <div class="card bg-dark text-white">
-                          <img class="card-img" src="img/31.jpg" alt="Card image">
-                          <div class="card-img-overlay">
-                            <div class="row">
-                              <div class="col-md-5">
-                                  <div style="background-color:#ff8c1a; opacity:0.8;" class="container">
-                                    <br><br><br><br><br><br><br><br><br>
-                                    <h2 class="font"><?php obtenerTitulo('Voluntario') ?></h2>
-                                    <p class="lead pt-5 pb-1"><?php obtenerDesc('Voluntario') ?></p>
-                                    <br><br><br><br><br><br><br><br><br>
-                                  </div>
-                              </div>
-                              <div class="col-md-7"></div>
+                        <div class="container containerleft">
+                            <img class="card-img" src="img/31.jpg" alt="Voluntariado">
+                            <div class="contentleft" style="background-color:#ff8c1a; opacity:0.8;">
+                                <h2 class="font"><?php obtenerTitulo('Voluntario') ?></h2>
+                                <p class="lead"><?php obtenerDesc('Voluntario') ?></p>
                             </div>
-                          </div>
                         </div>
-
                     </div>
 
                     <!-- Contacto -->
                     <div class="tab-pane fade" id="Contacto">
-                      <div class="card bg-dark text-white">
-                        <img class="card-img" src="img/32.jpg" alt="Card image">
-                        <div class="card-img-overlay">
-                          <div class="row">
-                            <div class="col-md-5">
-                                <div style="background-color:#003380; opacity:0.8;" class="container">
-                                  <br><br><br><br><br><br><br>
-                                  <h2 class="font"><?php obtenerTitulo('Contacto') ?></h2>
-                                  <p class="lead pt-5 pb-1"><?php obtenerDesc('Contacto') ?></p>
-                                  <br><br><br><br>
-                                </div>
+                        <div class="container containerleft">
+                            <img class="card-img" src="img/32.jpg" alt="Contacto">
+                            <div class="contentleft" style="background-color:#003380; opacity:0.8;">
+                                <h2 class="font"><?php obtenerTitulo('Contacto') ?></h2>
+                                <p class="lead"><?php obtenerDesc('Contacto') ?></p>
                             </div>
-                            <div class="col-md-7"></div>
-                          </div>
                         </div>
-                      </div>
-
                     </div>
                 </div>
             </article>
