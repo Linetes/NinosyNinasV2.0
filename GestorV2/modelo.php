@@ -1368,7 +1368,7 @@ function obtenerTablaWhite($seccion) {
         if(mysqli_num_rows($result) > 0){
             while($row = mysqli_fetch_assoc($result)){
                 $html .= '<tr class=\'\'>
-                          <td><h3 class="text-white">'. $row["Titulo"] .'</h3><p class="text-white">'. $row["Descripcion"] .'</p></td>
+                          <td><h3 class="text-white">'. $row["Titulo"] .'</h3><p style="color:#e6c600;">'. $row["Descripcion"] .'</p></td>
                           </tr>';
             }
             echo $html;

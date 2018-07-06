@@ -499,6 +499,15 @@ div.desc {
     animation-delay: -1.0s;
 }
 
+.textblue {
+  color:#000066!important;
+}
+
+.doublecolumn {
+  color:#000066!important;
+  column-count:2!important;
+}
+
 @-webkit-keyframes sk-rotate { 100% { -webkit-transform: rotate(360deg) }}
 @keyframes sk-rotate { 100% { transform: rotate(360deg); -webkit-transform: rotate(360deg) }}
 

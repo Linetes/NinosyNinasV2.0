@@ -37,171 +37,100 @@
                     <!-- Nosotros -->
                     <div class="tab-pane fade show active" id="Nosotros">
 
-                        <!-- Quienes Somos -->
-                        <div class="jumbotron bg-sec shadow">
-                            <div class="row py-4">
-                                <div class="col-md-9">
-                                    <div class="container mt-2">
-                                        <header>
-                                            <h2 class="font"><?php obtenerTitulo('QuienesSomos') ?></h2>
-                                        </header>
-                                        <p class="lead"><?php obtenerDesc('QuienesSomos') ?></p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/donation-3.png" class="img img-fluid" alt="Heart and us">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-
                         <!-- Que Hacemos -->
-                        <div class="jumbotron bg-ter shadow">
-                            <div class="row py-4">
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/library-1.png" class="img img-fluid" alt="Library">
-                                    </div>
-                                </div>
-                                <div class="col-md-9">
-                                    <div class="container mt-2">
-                                        <header>
-                                            <h2 class="font"><?php obtenerTitulo('Hacemos') ?></h2>
-                                        </header>
-                                        <p class="lead"><?php obtenerDesc('Hacemos') ?></p>
-                                    </div>
-                                </div>
+                        <div style="background-color:white;">
+                          <h2 class="textblue"><?php obtenerTitulo('Hacemos') ?></h2>
+                        </div>
+                        <div class="card">
+                          <img class="card-img" src="img/6.jpg" alt="Pizarrón ¿Que hacemos?">
+                          <div class="card-img-overlay">
+                            <div class="doublecolumn">
+                              <strong><?php obtenerDesc('Hacemos') ?></strong>
                             </div>
+                          </div>
                         </div>
 
+                        <br>
+                        <br>
 
-                        <!-- Constitucion -->
-                        <div class="jumbotron bg-sec shadow">
-                            <div class="row py-4">
-                                <div class="col-md-9">
-                                    <div class="container mt-2">
-                                        <header>
-                                            <h2 class="font"><?php obtenerTitulo('Constitucion') ?></h2>
-                                        </header>
-                                        <p class="lead"><?php obtenerDesc('Constitucion') ?></p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/library-2.png" class="img img-fluid" alt="Institution">
-                                    </div>
-                                </div>
-                            </div>
+                        <!-- Constitucion y Beneficiarios -->
+                        <div class="card">
+                          <div class="card-body text-center">
+                            <h3 class="textblue"><?php obtenerTitulo('Constitucion') ?></h2>
+                            <p class="textblue"><?php obtenerDesc('Constitucion') ?></p>
+                            <br>
+                            <h3 class="textblue"><?php obtenerTitulo('Beneficiarios') ?></h2>
+                            <p class="textblue"><?php obtenerDesc('Beneficiarios') ?></p>
+                          </div>
+                          <img class="card-img-bottom" src="img/14.jpg" alt="NiñosConstitución">
                         </div>
 
-
-                        <!-- Beneficiarios -->
-                        <div class="jumbotron bg-ter shadow">
-                            <div class="row py-4">
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/family.png" class="img-fluid img" alt="Family">
-                                    </div>
-                                </div>
-                                <div class="col-md-9">
-                                    <div class="container mt-2">
-                                        <header>
-                                            <h2 class="font"><?php obtenerTitulo('Beneficiarios') ?></h2>
-                                        </header>
-                                        <p class="lead"><?php obtenerDesc('Beneficiarios') ?></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
+                        <br>
+                        <br>
 
                         <!-- Patronato -->
-                        <div class="jumbotron bg-sec shadow">
-                            <div class="row py-4">
-                                <div class="col-md-9">
-                                    <div class="container mt-2">
-                                        <header>
-                                            <h2 class="font">Patronato</h2>
-                                        </header>
-                                        <table class="table round table-striped">
-                                            <tbody>
-                                            <?php obtenerTablaWhite('Patronato') ?>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/hierarchical-structure.png" class="img img-fluid" alt="Us">
-                                    </div>
-                                </div>
+                        <div class="card bg-dark text-white">
+                          <img class="card-img" src="img/28.jpg" alt="Card image">
+                          <div class="card-img-overlay">
+                            <div class="row">
+                              <div class="col-md-7"></div>
+                              <div class="col-md-5">
+                                  <div style="background-color:#006600; opacity:0.8;" class="container">
+                                      <header>
+                                          <h2>Patronato</h2>
+                                      </header>
+                                      <table class="table round table-striped">
+                                          <tbody>
+                                          <?php obtenerTablaWhite('Patronato') ?>
+                                          </tbody>
+                                      </table>
+                                  </div>
+                              </div>
                             </div>
+                          </div>
                         </div>
 
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
 
-                        <!-- Mision -->
-                        <div class="jumbotron bg-ter shadow">
-                            <div class="row py-4">
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/library.png" class="img img-fluid" alt="Books">
-                                    </div>
-                                </div>
-                                <div class="col-md-9">
-                                    <div class="container mt-2">
-                                        <header>
-                                            <h2 class="font"><?php obtenerTitulo('Mision') ?></h2>
-                                        </header>
-                                        <p class="lead"><?php obtenerDesc('Mision') ?></p>
-                                    </div>
-                                </div>
+                        <!-- Mision y Vision -->
+                        <div class="card bg-white text-white">
+                          <img class="card-img" src="img/26.png" alt="Card image">
+                          <div class="card-img-overlay">
+                            <div class="row">
+                              <div class="col-sm-6">
+                                <h2 class="textblue"><?php obtenerTitulo('Mision') ?></h2>
+                                <p class="textblue"><?php obtenerDesc('Mision') ?></p>
+                              </div>
+                              <div class="col-sm-6">
+                                <h2 class="textblue"><?php obtenerTitulo('Vision') ?></h2>
+                                <p class="textblue"><?php obtenerDesc('Vision') ?></p>
+                              </div>
                             </div>
+                          </div>
                         </div>
 
-                        <!-- Vision -->
-                        <div class="jumbotron bg-sec shadow">
-                            <div class="row py-4">
-                                <div class="col-md-9">
-                                    <div class="container mt-2">
-                                        <header>
-                                            <h2 class="font"><?php obtenerTitulo('Vision') ?></h2>
-                                        </header>
-                                        <p class="lead"><?php obtenerDesc('Vision') ?></p>
-                                    </div>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/mortgage-1.png" class="img img-fluid" alt="House and us">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
+                        <br>
+                        <br>
 
                         <!-- Objetivos -->
-                            <div class="jumbotron bg-ter shadow">
-                                <div class="row py-4">
-                                    <div class="col-sm-3">
-                                        <div class="container-fluid">
-                                            <img src="img/star.png" class="img img-fluid" alt="Books">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-9">
-                                        <div class="container mt-2">
-                                            <header>
-                                                <h2 class="font">Objetivos</h2>
-                                            </header>
-                                            <table class="table round table-striped">
-                                                <tbody>
-                                                <?php obtenerTabla('Objetivos') ?>
-                                                </tbody>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="row">
+                          <div class="col-md-7">
+                            <img src="img/5.jpg" class="img img-fluid" alt="PequeñosObjetivos" width="500000px" height="500000px">
+                          </div>
+                          <div class="col-md-5 bg-ter">
+                            <h2 class="font">Objetivos</h2>
+                            <table class="table round table-striped">
+                                <tbody>
+                                <?php obtenerTabla('Objetivos') ?>
+                                </tbody>
+                            </table>
+                          </div>
+                        </div>
 
                     </div>
 
@@ -209,23 +138,36 @@
                     <!-- Atencion -->
                     <div class="tab-pane fade" id="AreasDeAtencion">
                         <!-- Areas -->
-                            <div class="jumbotron bg-sec shadow">
-                                <div class="row">
-                                    <div class="col-md-9">
-                                        <header>
-                                            <h2 class="font"><?php obtenerTitulo('AreasdeAtencion') ?></h2>
-                                        </header>
-                                        <p class="lead pt-5 pb-1"><?php obtenerDesc('AreasdeAtencion') ?></p>
-                                    </div>
-                                    <div class="col-sm-3">
-                                        <div class="container-fluid">
-                                            <img src="img/pizarra.png" class="img img-fluid" alt="Blackboard">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="card bg-dark text-white">
+                          <img class="card-img" src="img/28.jpg" alt="Card image">
+                          <div class="card-img-overlay">
                             <div class="row">
-                                <div class="col-12 col-lg-4 col-md-4 jumbotron bg-ter shadow">
+                              <div class="col-md-5">
+                                  <div style="background-color:#000066; opacity:0.8;" class="container">
+                                    <br><br><br><br><br><br><br><br><br><br>
+                                    <br><br><br>
+                                    <h2 class="font"><?php obtenerTitulo('AreasdeAtencion') ?></h2>
+                                    <br>
+                                    <p class="lead"><?php obtenerDesc('AreasdeAtencion') ?></p>
+                                    <br><br><br><br><br><br><br><br><br><br>
+                                    <br><br><br><br>
+                                  </div>
+                              </div>
+                              <div class="col-md-7"></div>
+                            </div>
+                          </div>
+                        </div>
+
+                        <br>
+                        <br>
+
+                        <div class="card bg-dark text-white">
+                          <img class="card-img" src="img/25.jpeg" alt="Card image">
+                          <div class="card-img-overlay">
+                            <div class="row">
+                              <div class="col-md-5">
+                                  <div style="background-color:#602060; opacity:0.8;" class="container">
+                                    <br><br><br><br><br>
                                     <div>
                                         <table class="table round table-striped">
                                             <tbody>
@@ -241,8 +183,22 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
-                                <div class="col-12 col-lg-4 col-md-4 jumbotron bg-sec shadow">
+                                    <br><br><br><br><br>
+                                  </div>
+                              </div>
+                              <div class="col-md-7"></div>
+                            </div>
+                          </div>
+                        </div>
+                        <br>
+                        <div class="card bg-dark text-white">
+                          <img class="card-img" src="img/29.jpg" alt="Card image">
+                          <div class="card-img-overlay">
+                            <div class="row">
+                              <div class="col-md-5">
+                                  <div style="background-color:#602060; opacity:0.8;" class="container">
+                                    <br><br><br><br><br><br><br><br><br><br>
+                                    <br><br><br>
                                     <div>
                                         <table class="table round table-striped">
                                             <tbody>
@@ -250,9 +206,22 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                </div>
-                                <div class="col-12 col-lg-4 col-md-4 jumbotron bg-ter shadow">
+                                    <br><br><br><br><br><br><br><br><br>
+                                  </div>
+                              </div>
+                              <div class="col-md-7"></div>
+                            </div>
+                          </div>
+                        </div>
+                        <br>
+                        <div class="card bg-dark text-white">
+                          <img class="card-img" src="img/30.jpg" alt="Card image">
+                          <div class="card-img-overlay">
+                            <div class="row">
+                              <div class="col-md-5">
+                                  <div style="background-color:#602060; opacity:0.8;" class="container">
                                     <div>
+                                      <br>
                                         <table class="table round table-striped">
                                             <tbody>
                                             <?php obtenerTabla('Education') ?>
@@ -268,103 +237,99 @@
                                         </table>
                                         <br>
                                     </div>
-                                </div>
+                                  </div>
+                              </div>
+                              <div class="col-md-7"></div>
                             </div>
+                          </div>
+                        </div>
+                        <br><br>
+                        <br><br>
+                        <br><br>
                     </div>
 
                     <!-- Logros -->
                     <div class="tab-pane fade" id="Logros">
-                        <div class="jumbotron bg-sec shadow">
-                            <div class="row">
-                                <div class="col-md-9">
-                                    <header>
-                                        <h2 class="font"><?php obtenerTitulo('Logros') ?></h2>
-                                    </header>
-                                    <p class="lead pt-5 pb-1"><?php obtenerDesc('Logros') ?></p>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/diploma.png" class="img img-fluid" alt="Achivement">
-                                    </div>
-                                </div>
+                      <div class="card bg-white text-white">
+                        <img class="card-img" src="img/23.png" alt="Card image">
+                        <div class="card-img-overlay">
+                          <div class="row">
+                            <div class="col-md-7">
+                              <h2 class="textblue"><?php obtenerTitulo('Logros') ?></h2>
+                              <p class="textblue"><?php obtenerDesc('Logros') ?></p>
                             </div>
+                            <div class="col-md-5"></div>
+                          </div>
                         </div>
+                      </div>
                     </div>
 
                     <!-- Necesidades -->
                     <div class="tab-pane fade" id="Needs">
-                        <div class="jumbotron bg-sec">
-                            <div class="row">
-                                <div class="col-md-9">
-                                    <header>
-                                        <h2 class="font"><?php obtenerTitulo('QueNecesitamos') ?></h2>
-                                    </header>
-                                    <p class="lead pt-5 pb-1"><?php obtenerDesc('QueNecesitamos') ?></p>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/charity-1.png" class="img img-fluid" alt="Help">
-                                    </div>
-                                </div>
-                            </div>
+                      <div class="card">
+                        <img class="card-img" src="img/16.jpg" alt="Pizarrón ¿Que hacemos?">
+                        <div class="card-img-overlay">
+                          <h2 class="textblue"><?php obtenerTitulo('QueNecesitamos') ?></h2>
+                          <div class="doublecolumn">
+                            <strong><?php obtenerDesc('Hacemos') ?></strong>
+                          </div>
                         </div>
-
+                      </div>
+                      <br>
 
                         <!-- Donar -->
-                        <div class="jumbotron bg-ter shadow">
-                            <div class="row">
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/charity.png" class="img img-fluid" alt="Help">
-                                    </div>
-                                </div>
-                                <div class="col-md-9">
-                                    <header>
-                                        <h2 class="font"><?php obtenerTitulo('Donar') ?></h2>
-                                    </header>
-                                    <p class="lead pt-5 pb-1"><?php obtenerDesc('Donar') ?></p>
-                                    <br>
-                                    <a href="donar.php" class="btn bg-prim text-white shadow ml-auto mr-3"  role="button" aria-pressed="true">Donar <i class="fas fa-hand-holding-usd text-white"></i></a>
-                                </div>
-                            </div>
+                        <div class="card">
+                          <img class="card-img" src="img/33.jpg" alt="Pizarrón ¿Que hacemos?">
+                          <div class="card-img-overlay">
+                            <br><br>
+                            <h2 class="textblue"><?php obtenerTitulo('Donar') ?></h2>
+                            <br>
+                            <strong><p class="textblue"><?php obtenerDesc('Donar') ?></p></strong>
+                            <br>
+                            <a href="donar.php" class="btn bg-prim text-white shadow ml-auto mr-3"  role="button" aria-pressed="true">Donar <i class="fas fa-hand-holding-usd text-white"></i></a>
+                          </div>
                         </div>
-
+                        <br>
 
                         <!-- Voluntariado -->
-                        <div class="jumbotron bg-sec shadow">
+                        <div class="card bg-dark text-white">
+                          <img class="card-img" src="img/31.jpg" alt="Card image">
+                          <div class="card-img-overlay">
                             <div class="row">
-                                <div class="col-md-9">
-                                    <header>
-                                        <h2 class="font"><?php obtenerTitulo('Voluntario') ?></h2>
-                                    </header>
+                              <div class="col-md-5">
+                                  <div style="background-color:#ff8c1a; opacity:0.8;" class="container">
+                                    <br><br><br><br><br><br><br><br><br>
+                                    <h2 class="font"><?php obtenerTitulo('Voluntario') ?></h2>
                                     <p class="lead pt-5 pb-1"><?php obtenerDesc('Voluntario') ?></p>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/teamwork.png" class="img img-fluid" alt="Teamwork">
-                                    </div>
-                                </div>
+                                    <br><br><br><br><br><br><br><br><br>
+                                  </div>
+                              </div>
+                              <div class="col-md-7"></div>
                             </div>
+                          </div>
                         </div>
+
                     </div>
 
                     <!-- Contacto -->
                     <div class="tab-pane fade" id="Contacto">
-                        <div class="jumbotron bg-sec shadow">
-                            <div class="row">
-                                <div class="col-md-9">
-                                    <header>
-                                        <h2 class="font"><?php obtenerTitulo('Contacto') ?></h2>
-                                    </header>
-                                    <p class="lead pt-5 pb-1"><?php obtenerDesc('Contacto') ?></p>
-                                </div>
-                                <div class="col-sm-3">
-                                    <div class="container-fluid">
-                                        <img src="img/phone-call.png" class="img img-fluid" alt="Phone">
-                                    </div>
+                      <div class="card bg-dark text-white">
+                        <img class="card-img" src="img/32.jpg" alt="Card image">
+                        <div class="card-img-overlay">
+                          <div class="row">
+                            <div class="col-md-5">
+                                <div style="background-color:#003380; opacity:0.8;" class="container">
+                                  <br><br><br><br><br><br><br>
+                                  <h2 class="font"><?php obtenerTitulo('Contacto') ?></h2>
+                                  <p class="lead pt-5 pb-1"><?php obtenerDesc('Contacto') ?></p>
+                                  <br><br><br><br>
                                 </div>
                             </div>
+                            <div class="col-md-7"></div>
+                          </div>
                         </div>
+                      </div>
+
                     </div>
                 </div>
             </article>
