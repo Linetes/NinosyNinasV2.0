@@ -55,6 +55,14 @@ h5{
     padding: 20px;
 }
 
+.containerdon .contentdon {
+    position: absolute;
+    bottom: 0;
+    height: 100%;
+    width: 60%;
+    padding: 20px;
+}
+
 .containerright .contentright {
     position: absolute;
     bottom: 0;
