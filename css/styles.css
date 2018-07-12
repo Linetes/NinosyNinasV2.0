@@ -1,42 +1,107 @@
-* {
-    font-family: 'Encode Sans Semi Expanded', sans-serif !important;
-    font-size: 1vw;
+
+@media screen and (min-width: 1401px) {
+    * {
+        font-family: 'Encode Sans Semi Expanded', sans-serif !important;
+        font-size: 1.2vmin;
+    }
+
+    h1{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 3.5vmin !important;
+    }
+
+    h2{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 3vmin !important;
+    }
+
+    h3{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 2.5vmin !important;
+    }
+
+    h4{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 2vmin !important;
+    }
+
+    h5{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 1.5vmin !important;
+    }
 }
 
-.small {
-    font-size: .8vw;
+@media screen and (max-width: 1400px) {
+    * {
+        font-family: 'Encode Sans Semi Expanded', sans-serif !important;
+        font-size: 1.5vmin;
+    }
+
+    h1{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 4vmin !important;
+    }
+
+    h2{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 3vmin !important;
+    }
+
+    h3{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 2.7vmin !important;
+    }
+
+    h4{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 2.3vmin !important;
+    }
+
+    h5{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 2vmin !important;
+    }
 }
 
-h1{
-    font-family: 'Boogaloo', cursive !important;
-    font-size: 3vw !important;
+@media screen and (max-width: 500px) {
+    * {
+        font-family: 'Encode Sans Semi Expanded', sans-serif !important;
+        font-size: .9vmin;
+    }
+
+    h1{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 3vmin !important;
+    }
+
+    h2{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 2.8vmin !important;
+    }
+
+    h3{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 2.3vmin !important;
+    }
+
+    h4{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 1.7vmin !important;
+    }
+
+    h5{
+        font-family: 'Boogaloo', cursive !important;
+        font-size: 1.3vmin !important;
+    }
 }
 
-h2{
-    font-family: 'Boogaloo', cursive !important;
-    font-size: 2.5vw !important;
-}
 
-h3{
-    font-family: 'Boogaloo', cursive !important;
-    font-size: 2vw !important;
-}
-
-h4{
-    font-family: 'Boogaloo', cursive !important;
-    font-size: 1.8vw !important;
-}
-
-h5{
-    font-family: 'Boogaloo', cursive !important;
-    font-size: 1.5vw !important;
-}
 .bold {
     font-family: bold;
 }
 
 .size {
-    font-size: 22px;
+    font-size: 1.5vmin;
 }
 
 * {
