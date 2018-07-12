@@ -1,45 +1,47 @@
-
 <div class="container">
-    <div class="embed-responsive embed-responsive-16by9 shadow">
-        <div align="center">
-          <video width="1080" class="shadow" controls="" autoplay="">
-              <source src="img/ninosyninas.mp4" type="video/mp4">
-              <source src="img/ninosyninas.ogg" type="video/ogg">
-              Your browser does not support HTML5 video.
-          </video>
+    <div class="container">
+        <div class="embed-responsive embed-responsive-16by9 shadow">
+            <div align="center">
+                <video width="1080" class="shadow" controls="" autoplay="">
+                    <source src="img/ninosyninas.mp4" type="video/mp4">
+                    <source src="img/ninosyninas.ogg" type="video/ogg">
+                    Your browser does not support HTML5 video.
+                </video>
+            </div>
         </div>
     </div>
-</div>
 
-<br><br><br>
+    <br><br><br>
 
 
-<div class="container-fluid">
-    <h1 id="quienes_title" style="color: #04225c; text-align: center;"> <?php obtenerTitulo('QuienesSomos') ?></h1>
-</div>
-<div class="card">
-    <img class="card-img bg-gray" src="img/27.png" alt="Quienes Somos">
-    <div class="card-img-overlay">
-        <div class="container" style="text-align: center;">
-            <p id="quienes_text" class="py-4" style="color: #04225c; text-align: center;"><?php obtenerDesc('QuienesSomos') ?></p>
+    <div class="container-fluid">
+        <h1 id="quienes_title" style="color: #04225c; text-align: center;"> <?php obtenerTitulo('QuienesSomos') ?></h1>
+    </div>
+    <div class="card">
+        <img class="card-img bg-gray" src="img/27.png" alt="Quienes Somos" style="height: 10vm">
+        <div class="card-img-overlay">
+            <div class="container" style="text-align: center;">
+                <p id="quienes_text" class="py-4" style="color: #04225c; text-align: center;"><?php obtenerDesc('QuienesSomos') ?></p>
+            </div>
         </div>
     </div>
-</div>
 
-<div class="container-fluid my-4">
-    <div class="row" style="min-height: 600px; background-image: url('img/8.jpg'); background-size: 100% auto; background-position: center top;">
-        <div class="col-md-7">
-        </div>
-        <div class="col-md-5" style="background-color: rgba(255, 255, 255, 0.4);">
-            <h1 class="my-4" style="color: #04225c; text-align: center;">Noticias Recientes</h1>
-            <div class="container">
-                <div class="col">
-                    <?php getNoticiasIndex(); ?>
+    <div class="container-fluid my-4">
+        <div class="row" style="height: 10vm; background-image: url('img/8.jpg'); background-size: 100% auto; background-position: center top;">
+            <div class="col-md-7">
+            </div>
+            <div class="col-md-5" style="background-color: rgba(255, 255, 255, 0.4);">
+                <h2 class="my-4" style="color: #04225c; text-align: center;">Noticias Recientes</h2>
+                <div class="container">
+                    <div class="col">
+                        <?php getNoticiasIndex(); ?>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+
+    <img class="card-img bg-gray" src="img/29.png" alt="ninos y ninas">
+
+
 </div>
-
-<img class="card-img bg-gray" src="img/29.png" alt="ninos y ninas">
-

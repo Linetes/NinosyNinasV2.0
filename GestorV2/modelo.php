@@ -1148,7 +1148,7 @@ function obtenerTabla($seccion) {
         if(mysqli_num_rows($result) > 0){
             while($row = mysqli_fetch_assoc($result)){
                 $html .= '<tr class=\'\'>
-                          <td><h3 class="text-white">'. $row["Titulo"] .'</h3><p class="text-white texts">'. $row["Descripcion"] .'</p></td>
+                          <td><h5 class="text-white">'. $row["Titulo"] .'</h5><p class="text-white texts small">'. $row["Descripcion"] .'</p></td>
                           </tr>';
             }
             echo $html;
@@ -1170,7 +1170,7 @@ function obtenerTabla2($seccion) {
                             <td>
                               <div class='row'>
                                 <div class='col-sm-9'>
-                                  <h3>". $row['Titulo'] ."</h3><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
+                                  <h5>". $row['Titulo'] ."</h5><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
                                 </div>
                                 <div class='col-sm-3'>
                                 <input type='hidden' value='".$row["idInfo"]."' id='".$row["Descripcion"]."".'a'."'>
@@ -1213,7 +1213,7 @@ function obtenerTablaPromoSo($seccion) {
                             <td>
                               <div class='row'>
                                 <div class='col-sm-9'>
-                                  <h3 id='".$row["Titulo"]."'>". $row['Titulo'] ."</h3><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
+                                  <h5 id='".$row["Titulo"]."'>". $row['Titulo'] ."</h5><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
                                 </div>
                                 <div class='col-sm-3'>
                                 <input type='hidden' value='".$row["idInfo"]."' id='".$row["Descripcion"]."".'a'."'>
@@ -1249,7 +1249,7 @@ function obtenerTablaEdu($seccion) {
                             <td>
                               <div class='row'>
                                 <div class='col-sm-9'>
-                                  <h3 id='".$row["Titulo"]."'>". $row['Titulo'] ."</h3><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
+                                  <h5 id='".$row["Titulo"]."'>". $row['Titulo'] ."</h5><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
                                 </div>
                                 <div class='col-sm-3'>
                                 <input type='hidden' value='".$row["idInfo"]."' id='".$row["Descripcion"]."".'a'."'>
@@ -1285,7 +1285,7 @@ function obtenerTablaProgSo($seccion) {
                             <td>
                               <div class='row'>
                                 <div class='col-sm-9'>
-                                  <h3>". $row['Titulo'] ."</h3><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
+                                  <h5>". $row['Titulo'] ."</h5><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
                                 </div>
                                 <div class='col-sm-3'>
                                 <input type='hidden' value='".$row["idInfo"]."' id='".$row["Descripcion"]."".'a'."'>
@@ -1328,7 +1328,7 @@ function obtenerTablaProgEdu($seccion) {
                             <td>
                               <div class='row'>
                                 <div class='col-sm-9'>
-                                  <h3>". $row['Titulo'] ."</h3><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
+                                  <h5>". $row['Titulo'] ."</h5><p id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
                                 </div>
                                 <div class='col-sm-3'>
                                 <input type='hidden' value='".$row["idInfo"]."' id='".$row["Descripcion"]."".'a'."'>
@@ -1390,7 +1390,7 @@ function obtenerTablaWhiteDI($seccion) {
                           <td>
                             <div class='row'>
                               <div class='col-sm-9'>
-                                <h3 class='text-white' id='".$row["Titulo"]."'>". $row['Titulo'] ."</h3><p class='text-white' id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
+                                <h5 class='text-white' id='".$row["Titulo"]."'>". $row['Titulo'] ."</h5><p class='text-white' id='".$row["Descripcion"]."'>". $row['Descripcion'] ."</p>
                               </div>
                               <div class='col-sm-3'>
                               <input type='hidden' value='".$row["idInfo"]."' id='".$row["Descripcion"]."".'a'."'>

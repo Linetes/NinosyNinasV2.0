@@ -1,32 +1,35 @@
 * {
-    font-size: 100%;
     font-family: 'Encode Sans Semi Expanded', sans-serif !important;
-    font-size: 14px;
+    font-size: 1vw;
+}
+
+.small {
+    font-size: .8vw;
 }
 
 h1{
     font-family: 'Boogaloo', cursive !important;
-    font-size: 48px !important;
+    font-size: 4vw !important;
 }
 
 h2{
     font-family: 'Boogaloo', cursive !important;
-    font-size: 36px !important;
+    font-size: 3.5vw !important;
 }
 
 h3{
     font-family: 'Boogaloo', cursive !important;
-    font-size: 32px !important;
+    font-size: 3vw !important;
 }
 
 h4{
     font-family: 'Boogaloo', cursive !important;
-    font-size: 28px !important;
+    font-size: 2.5vw !important;
 }
 
 h5{
     font-family: 'Boogaloo', cursive !important;
-    font-size: 24px !important;
+    font-size: 1.5vw !important;
 }
 .bold {
     font-family: bold;
@@ -73,9 +76,8 @@ h5{
 }
 
 .texts {
-    font-size: 10px;
+    font-size: 1em;
 }
-
 
 a:hover, button:hover {
     color: #7334A2 !important;
@@ -84,10 +86,6 @@ a:hover, button:hover {
 a:active, button:active {
     color: #472268 !important;
     transform: scale(1.2);
-}
-
-.lead {
-    font-size: 18px !important;
 }
 
 .big:hover {
@@ -374,9 +372,6 @@ div.desc {
     width: 100%;
     height: 100%;
 
-}
-.font{
-    font-size: 2.5em;
 }
 
 #gallery{
